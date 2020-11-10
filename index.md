@@ -21,7 +21,7 @@ Vendors can also add their meals to the app for the students to see.
 
 ## Team Members
 
-Jerome Gallego:
+# Jerome Gallego:
   
   Goal: Be able to communicate efficiently with a group to ensure that we are on the same page
   
@@ -29,7 +29,7 @@ Jerome Gallego:
   
   Contact: gallego6@hawaii.edu
   
-Christine Guira:
+# Christine Guira:
   
   Goal: Be able to use all the things I learned in class and improve on the parts where I have problems with
   
@@ -37,7 +37,7 @@ Christine Guira:
   
   Contact: ckguira@hawaii.edu
   
-Marjorie Raquiz:
+# Marjorie Raquiz:
   
   Goal: Be able to use the things that I have learned in class and improve my Javascript skills
   
@@ -45,7 +45,7 @@ Marjorie Raquiz:
   
   Contact: mkraquiz@hawaii.edu
  
-Yeji Han:
+# Yeji Han:
   
   Goal: Improve my Javascript skills through this project
   
