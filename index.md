@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-* [Goal of Project](#Goal of Project)
+* [Goal of Project](#goalofproject)
 * [Overview](#overview)
 
 ## Goal of Project
