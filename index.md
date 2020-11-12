@@ -1,10 +1,10 @@
-## Manoa Eats 
+# Manoa Eats 
 
 ## Table of contents
 
-* [Goal of Project](#goalofproject)
+* [Goal of Project](#goal of project)
 * [Overview](#overview)
-* [Team Members](#teammembers)
+* [Team Members](#team members)
 
 
 ## Goal of Project
@@ -27,6 +27,8 @@ Vendors can also add their meals to the app for the students to see.
   
   Skills: Prioritizing, Flexibility, and (somewhat) Troubleshooting
   
+  Website: [Professional Portfolio](https://alohajerome.github.io/)
+  
   Contact: gallego6@hawaii.edu
   
 #### Christine Guira:
@@ -34,6 +36,8 @@ Vendors can also add their meals to the app for the students to see.
   Goal: Be able to use all the things I learned in class and improve on the parts where I have problems with
   
   Skils: Organizing, Communication, Time Management
+  
+  Website: [Professional Portfolio](https://ceekaye12.github.io/)
   
   Contact: ckguira@hawaii.edu
   
@@ -43,6 +47,8 @@ Vendors can also add their meals to the app for the students to see.
   
   Skills: Organization, Team Work, Flexibility
   
+  Website: [Professional Portfolio](https://mkraquiz.github.io/)
+  
   Contact: mkraquiz@hawaii.edu
  
 #### Yeji Han:
@@ -50,5 +56,7 @@ Vendors can also add their meals to the app for the students to see.
   Goal: Improve my Javascript skills through this project
   
   Skills: Participation, Flexibility, Following the rules
+  
+  Website: [Professional Portfolio](https://yejihan92.github.io/)
   
   Contact: hany7@hawaii.edu
