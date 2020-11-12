@@ -4,7 +4,7 @@
 
 * [Goal of Project](#goalofproject)
 * [Overview](#overview)
-* [Team Members](#teammembers)
+* [Team Members](#team)
 
 
 ## Goal of Project
@@ -19,7 +19,7 @@ Students at UH Manoa have the ability to sign into the app and search for whatev
 Everyday will have different availablities to ensure that there will be a wide range of food options. 
 Vendors can also add their meals to the app for the students to see. 
 
-## Team Members
+## Team 
 
 #### Jerome Gallego:
   
