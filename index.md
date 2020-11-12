@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-* [Goal of Project](#goal of project)
+* [Goal of Project](#goalofproject)
 * [Overview](#overview)
-* [Team Members](#team members)
+* [Team Members](#teammembers)
 
 
 ## Goal of Project
