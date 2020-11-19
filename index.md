@@ -5,6 +5,7 @@
 * [Goal of Project](#goalofproject)
 * [Overview](#overview)
 * [Mockups](#mockups)
+* [Milestones](#milestones)
 * [Team Members](#team)
 
 
@@ -36,6 +37,12 @@ Vendors can also add their meals to the app for the students to see.
   Foods Available Right Now page
   
   Today's Top Picks page
+  
+## Milestones
+
+#### Milestone 1: <a href="https://github.com/manoaeats/manoaeats/projects/1">Click Here</a>
+
+#### Milestone 2: <a href="https://github.com/manoaeats/manoaeats/projects/2">Click Here</a>
 
 ## Team 
 
