@@ -87,24 +87,20 @@ Milestone 3: coming soon...
 #### Jerome Gallego
 
 Website: [Professional Portfolio](https://alohajerome.github.io/)
-
 Email: gallego6@hawaii.edu
 
 #### Christine Guira
 
 Website: [Professional Portfolio](https://ceekaye12.github.io/)
-
 Email: ckguira@hawaii.edu
   
 #### Marjorie Raquiz
 
 Website: [Professional Portfolio](https://mkraquiz.github.io/)
-
 Email: mkraquiz@hawaii.edu
  
 #### Yeji Han
 
 Website: [Professional Portfolio](https://yejihan92.github.io/)
-
 Email: hany7@hawaii.edu
 
