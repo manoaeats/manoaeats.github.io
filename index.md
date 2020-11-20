@@ -8,7 +8,6 @@
 * [Milestones](#milestones)
 * [Team Members](#team)
 
-#### GitHub Organization: https://github.com/manoaeats
 
 ## Goal of Project
 
