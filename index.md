@@ -24,19 +24,24 @@ Vendors can also add their meals to the app for the students to see.
 ## Mockups
   Landing page
   
-  User Home page
+  <img src="./images/Landing-Page.png">
   
-  Vendor Home page
+  All Vendors page
   
-  Admin Home page
+  <img src="./images/All-Vendors-Page.png">
   
   Add Vendor page
   
-  User Profile page
+  <img src="./images/Add-Vendor-Page.png">
   
-  Foods Available Right Now page
+  My Vendor Page
   
-  Today's Top Picks page
+  <img src="./images/My-Vendors-Page.png">
+  
+  Admin Home page
+  
+  <img src="./images/Admin-Page.png">
+  
   
 ## Milestones
 
