@@ -1,5 +1,3 @@
-# Manoa Eats 
-
 ## Table of contents
 
 * [Goal of Project](#goalofproject)
