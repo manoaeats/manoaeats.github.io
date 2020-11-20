@@ -26,31 +26,31 @@ Vendors can also add their meals to the app for the students to see.
 
 ## User Guide
   
-  #### Landing page
+  ### Landing page
   
   Landing page contains a brief introduction to the users and vendors about the website.
   
   <img src="./images/Landing-Page.png">
   
-  #### Sign In Page
+  ### Sign In Page
   
   Registered users can sign into the application. 
   
   <img src="./images/Sign-In-Page.png">
   
-  #### Sign Up Page
+  ### Sign Up Page
   
   If the user does not have a registered account, they can sign up through this page.
   
   <img src="./images/Sign-Up-Page.png">
   
-  #### All Vendors page
+  ### All Vendors page
   
   List all the vendors available at UH Manoa.
   
   <img src="./images/All-Vendors-Page.png">
   
-  #### My Vendor Page
+  ### My Vendor Page
   
   *This is a work in progress
   
@@ -58,13 +58,13 @@ Vendors can also add their meals to the app for the students to see.
   
   <img src="./images/My-Vendors-Page.png">
   
-  #### Add Vendor page
+  ### Add Vendor page
   
   Registered vendors have the ability to add their own business to provide information about their meals to the students of UH Manoa.
   
   <img src="./images/Add-Vendor-Page.png">
   
-  #### Admin Home page
+  ### Admin Home page
   
   Verified admin users have the ability to edit or delete different types of vendors.
   
