@@ -1,11 +1,12 @@
+# Manoa Eats 
+
 ## Table of contents
 
-* [Goal of Project](#goalofproject)
+* [Goal of Project](#goal-of-project)
 * [Overview](#overview)
-* [User Guide](#userguide)
-
-* [Development History](#developmenthistory)
-* [Contact Us](#contactus)
+* [User Guide](#user-guide)
+* [Development History](#development-history)
+* [Contact Us](#contact-us)
 
 
 ## <a href="http://138.68.15.1/#/">Manoa Eats Website</a>
@@ -75,6 +76,8 @@ Although this is a work in progress application, we would like to hear your inpu
 ## Development History
 
 Milestone 1: <a href="https://github.com/manoaeats/manoaeats/projects/1">Click Here</a>
+
+<img src="./images/M1.png">
 
 Milestone 2: <a href="https://github.com/manoaeats/manoaeats/projects/2">Click Here</a>
 
