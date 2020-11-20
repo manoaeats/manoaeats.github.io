@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: ManoaEats
+github:
+  is_project_page: true
+  repository_url: https://github.com/manoaeats/manoaeats
+  
