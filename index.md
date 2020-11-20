@@ -4,10 +4,12 @@
 
 * [Goal of Project](#goalofproject)
 * [Overview](#overview)
-* [Mockups](#mockups)
-* [Milestones](#milestones)
-* [Team Members](#team)
+* [User Guide](#userguide)
+* [Development History](#developmenthistory)
+* [Contact Us](#contactus)
 
+
+## <a href="http://138.68.15.1/#/">Manoa Eats Website</a>
 
 ## Goal of Project
 
@@ -21,7 +23,8 @@ Students at UH Manoa have the ability to sign into the app and search for whatev
 Everyday will have different availablities to ensure that there will be a wide range of food options. 
 Vendors can also add their meals to the app for the students to see. 
 
-## Mockups
+## User Guide
+  
   Landing page
   
   <img src="./images/Landing-Page.png">
@@ -41,52 +44,36 @@ Vendors can also add their meals to the app for the students to see.
   Admin Home page
   
   <img src="./images/Admin-Page.png">
+
+
   
-  
-## Milestones
+## Development History
 
 #### Milestone 1: <a href="https://github.com/manoaeats/manoaeats/projects/1">Click Here</a>
 
 #### Milestone 2: <a href="https://github.com/manoaeats/manoaeats/projects/2">Click Here</a>
 
-## Team 
+#### Milestone 3: coming soon...
 
-#### Jerome Gallego:
+## Contact Us 
+
+#### Jerome Gallego
+
+Website: [Professional Portfolio](https://alohajerome.github.io/)
+Email: gallego6@hawaii.edu
+
+#### Christine Guira
+
+Website: [Professional Portfolio](https://ceekaye12.github.io/)
+Email: ckguira@hawaii.edu
   
-  Goal: Be able to communicate efficiently with a group to ensure that we are on the same page
-  
-  Skills: Prioritizing, Flexibility, and (somewhat) Troubleshooting
-  
-  Website: [Professional Portfolio](https://alohajerome.github.io/)
-  
-  Contact: gallego6@hawaii.edu
-  
-#### Christine Guira:
-  
-  Goal: Be able to use all the things I learned in class and improve on the parts where I have problems with
-  
-  Skils: Organizing, Communication, Time Management
-  
-  Website: [Professional Portfolio](https://ceekaye12.github.io/)
-  
-  Contact: ckguira@hawaii.edu
-  
-#### Marjorie Raquiz:
-  
-  Goal: Be able to use the things that I have learned in class and improve my Javascript skills
-  
-  Skills: Organization, Team Work, Flexibility
-  
-  Website: [Professional Portfolio](https://mkraquiz.github.io/)
-  
-  Contact: mkraquiz@hawaii.edu
+#### Marjorie Raquiz
+
+Website: [Professional Portfolio](https://mkraquiz.github.io/)
+Email: mkraquiz@hawaii.edu
  
-#### Yeji Han:
-  
-  Goal: Improve my Javascript skills through this project
-  
-  Skills: Participation, Flexibility, Following the rules
-  
-  Website: [Professional Portfolio](https://yejihan92.github.io/)
-  
-  Contact: hany7@hawaii.edu
+#### Yeji Han
+
+Website: [Professional Portfolio](https://yejihan92.github.io/)
+Email: hany7@hawaii.edu
+
