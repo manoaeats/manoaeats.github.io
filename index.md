@@ -79,23 +79,27 @@ Milestone 1: <a href="https://github.com/manoaeats/manoaeats/projects/1">Click H
 
 Milestone 2: <a href="https://github.com/manoaeats/manoaeats/projects/2">Click Here</a>
 
-Milestone 3: coming soon...
+Milestone 3: <a href="https://github.com/manoaeats/manoaeats/projects/3">Click Here</a>
 
 ## Contact Us 
 
 #### Jerome Gallego
 Website: [Professional Portfolio](https://alohajerome.github.io/)
+
 Email: gallego6@hawaii.edu
 
 #### Christine Guira
 Website: [Professional Portfolio](https://ceekaye12.github.io/)
+
 Email: ckguira@hawaii.edu
   
 #### Marjorie Raquiz
 Website: [Professional Portfolio](https://mkraquiz.github.io/)
+
 Email: mkraquiz@hawaii.edu
  
 #### Yeji Han
 Website: [Professional Portfolio](https://yejihan92.github.io/)
+
 Email: hany7@hawaii.edu
 
