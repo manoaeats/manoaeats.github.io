@@ -40,12 +40,24 @@ Vendors can also add their meals to the app for the students to see.
   If the user does not have a registered account, they can sign up through this page.
   
   <img src="./images/Sign-Up-Page.png">
+
+### Home Page
+
+  Default home page once you log into your account
+  
+  <img src="./images/homepage.png">
   
 ### All Vendors page
   
   List all the vendors available at UH Manoa.
   
-  <img src="./images/All-Vendors-Page.png">
+  <img src="./images/allvendors'.png">
+
+### Today's Top Picks Page
+
+  Lists the popular vendors on campus right now
+  
+  <img src="./images/todayspick.png">
   
 ### My Vendor Page
   
@@ -63,9 +75,12 @@ Vendors can also add their meals to the app for the students to see.
   
 ### Admin Home page
   
-  Verified admin users have the ability to edit or delete different types of vendors.
+  Verified admin users have the ability to edit or delete different types of vendors. This now shows a list of registered accounts 
   
   <img src="./images/Admin-Page.png">
+  
+  <img src="./images/adminlist.png">
+  
 
 ## Community Feedback
 
