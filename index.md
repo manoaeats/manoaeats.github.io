@@ -7,7 +7,7 @@
 * [Contact Us](#contact-us)
 
 
-## <a href="http://138.68.15.1/#/">Our Temporary Manoa Eats Website</a>
+## <a href="http://manoaeats.xyz/">Our Temporary Manoa Eats Website</a>
 
 ## Goal of Project
 
