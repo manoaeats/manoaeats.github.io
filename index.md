@@ -7,7 +7,6 @@
 * [Contact Us](#contact-us)
 
 
-## <a href="http://manoaeats.xyz/">Our Temporary Manoa Eats Website</a>
 
 ## Goal of Project
 
@@ -20,6 +19,10 @@ Manoa Eats is web application that helps students find different food choices of
 Students at UH Manoa have the ability to sign into the app and search for whatever they are craving at that time. When you load up the application, you are greeted with a flanding page...
 Everyday will have different availablities to ensure that there will be a wide range of food options. 
 Vendors can also add their meals to the app for the students to see. 
+
+## Deployment
+### <a>You can take a quick look at our work-in progress website: </a>
+### <a href="http://manoaeats.xyz/">Here</a>
 
 ## User Guide
   
