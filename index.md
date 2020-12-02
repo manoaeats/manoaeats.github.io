@@ -9,7 +9,6 @@
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
-![ci-badge](https://github.com/manoaeats/manoaeats/workflows/ci-manoaeats/badge.svg)
 
 
 ## Goal of Project
