@@ -51,7 +51,7 @@ Vendors can also add their meals to the app for the students to see.
 
   Default home page once you log into your account
   
-  <img src="./images/homepage.png">
+  <img src="./images/updatehomepage.png">
   
 ### All Vendors page
   
