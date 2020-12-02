@@ -89,6 +89,38 @@ Vendors can also add their meals to the app for the students to see.
 ## Community Feedback
 
 Although this is a work in progress application, we would like to hear your input on improving ManoaEats.
+
+## Developer Guide
+
+This section provides information to Meteor developers who are interested in using this code as a basis for their own development.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install)
+
+Second, go to https://github.com/ics-software-engineering/meteor-application-template-react. Click the "Use this template" and create a new repository. 
+
+Third, go to your newly created repository. Click the "Code" and choose if you want to "open with your GitHub Desktop" or "Download ZIP" to create a copy to your local computer.
+
+Fourth, cd your app directory and install the libraries using:
+
+ <img src="./images/meteorinstall.png">
+
+Fifth, run the system using:
+
+ <img src="./images/meteor-run.png">
+
+### Initialization
+
+Run meteor reset to reset the system and restore the default data
+
+ <img src="./images/meteor-reset.png">
+
+### Run ESLint
+
+To check that your system does not have any ESLint error, run:
+
+ <img src="./images/meteor-run-lint.png">
   
 ## Development History
 
