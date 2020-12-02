@@ -65,6 +65,13 @@ Vendors can also add their meals to the app for the students to see.
   
   <img src="./images/todayspick.png">
   
+###  Food's Available Page
+
+  Lists the meals/foods available on that specific day
+  
+   <img src="./images/foodsavailable.png">
+
+  
 ### My Vendor Page
   
   *This is a work in progress
