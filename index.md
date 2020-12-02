@@ -2,6 +2,7 @@
 
 * [Goal of Project](#goal-of-project)
 * [Overview](#overview)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
@@ -21,7 +22,7 @@ Everyday will have different availablities to ensure that there will be a wide r
 Vendors can also add their meals to the app for the students to see. 
 
 ## Deployment
-### You can take a quick look at our work-in progress website:
+#### You can take a quick look at our work-in progress website:
 ### <a href="http://manoaeats.xyz/">Here</a>
 
 ## User Guide
