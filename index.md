@@ -25,7 +25,7 @@ Vendors can also add their meals to the app for the students to see.
 
 ## Deployment
 #### You can take a quick look at our work-in progress website:
-### <a href="http://manoaeats.xyz/">Here</a>
+### <a href="http://manoaeats.xyz/">ManoaEats</a>
 
 ## User Guide
   
@@ -98,6 +98,8 @@ Vendors can also add their meals to the app for the students to see.
 ## Community Feedback
 
 Although this is a work in progress application, we would like to hear your input on improving ManoaEats.
+
+[ManoaEats Feedback Form](https://forms.gle/DC9WzZZSHziFgbke9)
 
 ## Developer Guide
 
