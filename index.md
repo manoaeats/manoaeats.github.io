@@ -101,6 +101,20 @@ Although this is a work in progress application, we would like to hear your inpu
 
 [ManoaEats Feedback Form](https://forms.gle/DC9WzZZSHziFgbke9)
 
+### Feedback 1
+
+"It is easy to use and I like that there's a variety of options. The other feature that I would like to see on the website is to have clickable menu. Maybe a more appetizing background and font would help. Clickable menu that would show a quick glance of the overview of availble foods from that fast food/restaurant."
+
+### Feedback 2
+
+"The website is very easy to navigate. It was easy to access all the vendors. Other feature that I would like to see is probably comments/rates/reviews for each vendors from all those who have eaten from them. Share their experience. Also, maybe add some extra designs/lay outs on the side to attract more students/customers."
+
+### Feedback 3
+
+### Feedback 4
+
+### Feedback 5
+
 ## Developer Guide
 
 This section provides information to Meteor developers who are interested in using this code as a basis for their own development.
