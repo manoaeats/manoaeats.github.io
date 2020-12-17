@@ -114,9 +114,12 @@ Although this is a work in progress application, we would like to hear your inpu
 "The backgrounds are so aesthetic! But still a little confused on how to look for food items. Overall I would definitely use this type of website!"
 
 ### Feedback 4
-#### 
+#### Djojeanne Simon - Graduate at UH West Oahu - 
+"The design of the website is really good. I really like the background and it was easy to navigate."
 
 ### Feedback 5
+#### Mica Lardizabal - Undergraduate at UH West Oahu - 
+" I really like the website. It looks real and very easy to find what I want to see. We can even rate them and leave some comments. I will definitely use this website if it is real. Everything looks good for me." 
 
 ## Developer Guide
 
