@@ -57,19 +57,19 @@ Vendors can also add their meals to the app for the students to see.
   
   List all the vendors available at UH Manoa.
   
-  <img src="./images/allvendors'.png">
+  <img src="./images/update-allvendors.png">
 
 ### Today's Top Picks Page
 
   Lists the popular vendors on campus right now
   
-  <img src="./images/todayspick.png">
+  <img src="./images/update-todays.png">
   
 ###  Food's Available Page
 
-  Lists the meals/foods available on that specific day
+  Lists the meals/foods available on that specific day, Vendors and Admins have the ability to edit the information and also add new foods that can be available
   
-   <img src="./images/foodsavailable.png">
+   <img src="./images/update-foodsavailable.png">
 
   
 ### My Vendor Page
