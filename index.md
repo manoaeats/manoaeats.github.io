@@ -102,16 +102,19 @@ Although this is a work in progress application, we would like to hear your inpu
 [ManoaEats Feedback Form](https://forms.gle/DC9WzZZSHziFgbke9)
 
 ### Feedback 1
-
+#### Yannah Angeles - Graduate at UH Manoa -
 "It is easy to use and I like that there's a variety of options. The other feature that I would like to see on the website is to have clickable menu. Maybe a more appetizing background and font would help. Clickable menu that would show a quick glance of the overview of availble foods from that fast food/restaurant."
 
 ### Feedback 2
-
+#### Divina Galicha - Undergraduate at UH West Oahu -
 "The website is very easy to navigate. It was easy to access all the vendors. Other feature that I would like to see is probably comments/rates/reviews for each vendors from all those who have eaten from them. Share their experience. Also, maybe add some extra designs/lay outs on the side to attract more students/customers."
 
 ### Feedback 3
+#### Tiara Bautista - Undergraduate at UH Manoa -
+"The backgrounds are so aesthetic! But still a little confused on how to look for food items. Overall I would definitely use this type of website!"
 
 ### Feedback 4
+#### 
 
 ### Feedback 5
 
