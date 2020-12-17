@@ -165,6 +165,8 @@ Milestone 2: <a href="https://github.com/manoaeats/manoaeats/projects/2">Click H
 
 Milestone 3: <a href="https://github.com/manoaeats/manoaeats/projects/3">Click Here</a>
 
+<img src="./images/milestone3.png">
+
 ## Contact Us 
 
 #### Jerome Gallego
